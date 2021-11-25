@@ -357,3 +357,4 @@ C:\Users\huythang\Desktop\test\testapp\obj\Debug\net5.0\testapp.RazorCoreGenerat
 C:\Users\huythang\Desktop\test\testapp\obj\Debug\net5.0\Razor\Views\Test.cshtml.g.cs
 C:\Users\huythang\Desktop\test\testapp\obj\Debug\net5.0\testapp.RazorTargetAssemblyInfo.cs
 C:\Users\huythang\Desktop\test\testapp\obj\Debug\net5.0\testapp.Views.pdb
+C:\Users\huythang\Desktop\test\testapp\bin\Debug\net5.0\DinkToPdf.dll

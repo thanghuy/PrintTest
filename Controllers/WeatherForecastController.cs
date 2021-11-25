@@ -38,5 +38,16 @@ namespace testapp.Controllers
 
             return await _generatePdf.GetPdf("Views/Test.cshtml", data);
         }
+        [HttpPost]
+        public async Task<IActionResult> Create()
+        {
+            var data = new Test
+            {
+                Text = "This is a test",
+                Number = 123456
+            };
+
+            return await _generatePdf.GetPdf("Views/Test.cshtml", data);
+        }
     }
 }
